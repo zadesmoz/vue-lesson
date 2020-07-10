@@ -23,9 +23,9 @@
                 </header>
 
                 <main class="flex mx-20">
-                    <aside class="w-1/5">
+                    <aside class="w-64 pt-8">
                         <section class="mb-8">
-                            <h5 class="uppercase font-bold mb-3">The Brand</h5>
+                            <h5 class="uppercase font-bold mb-5 text-base">The Brand</h5>
 
                             <ul class="list-reset">
                                 <li class="text-sm leading-loose"><router-link class="text-gray-700" to="/" exact>Logo</router-link></li>
